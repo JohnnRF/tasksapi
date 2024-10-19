@@ -1,0 +1,6 @@
+@tasksapi_HostAddress = http://localhost:5086
+
+GET {{tasksapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
